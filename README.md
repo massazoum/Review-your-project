@@ -95,15 +95,12 @@ You can deploy this project using:
 
 👤 **MASSA**
 
-- GitHub: [@githubhandle]
-- Twitter: [@twitterhandle]
-- LinkedIn: [LinkedIn]
+- GitHub: [@massazoum](https://github.com/massazoum)
+- Twitter: [@zoumaniguimass1](https://twitter.com/zoumaniguimass1)
 
 👤 **BELETE**
 
-- GitHub: [@githubhandle]
-- Twitter: [@twitterhandle]
-- LinkedIn: [LinkedIn]
+- GitHub: [@BELETE]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,8 +112,6 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -124,8 +119,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
